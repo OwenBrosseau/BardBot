@@ -95,8 +95,6 @@ async def loop(seconds : int):
     while True:
         await asyncio.sleep(seconds)
         await allowance()
-        #await rent()
-        #print("Looping")
 
 async def main():
     await load()
