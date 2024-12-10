@@ -1,0 +1,8 @@
+openai
+discord.py
+sqlite3
+asyncio
+youtube_dl
+yt_dlp
+nacl
+youtube_search
